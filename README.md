@@ -1,2 +1,2 @@
 # typescript-course
-Typescript course
+Practical Exercises for Typescript Course 
