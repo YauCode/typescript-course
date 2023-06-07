@@ -1,6 +1,6 @@
-# PART2
+# PART2 - Functions
 ## Theme: Functions
-Practicing:
+### Practicing:
 - Parameter Functions 
 - Type Annotations
 - Optional Parameters
